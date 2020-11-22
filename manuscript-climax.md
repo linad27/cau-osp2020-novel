@@ -5,6 +5,7 @@
 ```
 다시 원래 세상으로 돌아가는 문을 향해 세차게 나아간다.
 
+<!-- 다리를 다친 제리-->
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74313494/99911817-32e2a780-2d3a-11eb-8b7f-7065d3fc284a.png" width="50%" height="50%">
 
